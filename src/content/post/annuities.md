@@ -1,12 +1,12 @@
 ---
 publishDate: 2023-08-09T00:00:00Z
-title: Useful tools and resources to create a professional website
-excerpt: Explore vital tools and resources for a sleek website. From design to functionality, our guide elevates your online presence.
+title: Annuities - Wealth preservation has never been so easy.
+excerpt: You probably have at least $10,000 in an old annuity, 401k, IRA, or stocks - we'll show you how to not run out of money.
 image: https://images.unsplash.com/photo-1637144113536-9c6e917be447?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1674&q=80
 tags:
-  - front-end
-  - tools
-  - resources
+  - annuity
+  - 401k
+  - stocks
 ---
 
 ## Magna nunc senectus torquent per fusce sapien ligula tempus cra

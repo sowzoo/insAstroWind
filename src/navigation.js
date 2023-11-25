@@ -86,27 +86,27 @@ export const headerData = {
       ],
     },
     {
-      text: 'Blog',
+      text: 'Case Studies',
       links: [
         {
-          text: 'Blog List',
+          text: 'How can we help you?',
           href: getBlogPermalink(),
         },
         {
-          text: 'Article',
-          href: getPermalink('get-started-website-with-astro-tailwind-css', 'post'),
+          text: 'Final Expense',
+          href: getPermalink('final-expense', 'post'),
         },
         {
-          text: 'Article (with MDX)',
-          href: getPermalink('markdown-elements-demo-post', 'post'),
+          text: 'Mortgage Protection',
+          href: getPermalink('mortgage-protection', 'post'),
         },
         {
-          text: 'Category Page',
-          href: getPermalink('tutorials', 'category'),
+          text: 'Wealth Generation',
+          href: getPermalink('iuls', 'post'),
         },
         {
-          text: 'Tag Page',
-          href: getPermalink('astro', 'tag'),
+          text: 'Wealth Protection',
+          href: getPermalink('annuities', 'post'),
         },
       ],
     },
