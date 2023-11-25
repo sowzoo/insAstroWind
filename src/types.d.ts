@@ -54,6 +54,10 @@ export interface MetaData {
 
   description?: string;
 
+  keywords?: string;
+
+  author?: string;
+
   openGraph?: MetaDataOpenGraph;
   twitter?: MetaDataTwitter;
 }
