@@ -6,17 +6,21 @@ site:
 
   googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
 
+#EDIT-ME FOR EVERY SITE
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
+    default: Your Insurance Super Site
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Your Insurance Super Site Astro Template."
+  keywords: Insurance Wealth IUL FIUL
+  author: Insurance Super Sites
+  viewport: width=device-width, initial-scale=1.0
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: YoInsSupSit
     images:
       - url: '~/assets/images/default.png'
         width: 1200
