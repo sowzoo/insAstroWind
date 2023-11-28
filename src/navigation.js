@@ -11,8 +11,16 @@ export const headerData = {
       href: getPermalink('/about'),
     },
     {
-      text: 'Services',
-      href: getPermalink('/services'),
+      text: 'Financial Services',
+      href: getPermalink('/serv-fin'),
+    },
+    {
+      text: 'Annuity',
+      href: getPermalink('/serv-annuity'),
+    },
+    {
+      text: 'Life Insurance',
+      href: getPermalink('/serv-life'),
     },
     {
       text: 'Contact',
@@ -45,7 +53,6 @@ export const headerData = {
     },
     
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
 
 export const footerData = {

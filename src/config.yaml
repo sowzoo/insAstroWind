@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: BIG_WEB
+  site: 'https://www.flexsteps.org'
   base: '/'
   trailingSlash: false
 
@@ -20,7 +20,7 @@ metadata:
     index: true
     follow: true
   openGraph:
-    site_name: YoInsSupSit
+    site_name: BIG_WEB
     images:
       - url: '~/assets/images/default.png'
         width: 1200
